@@ -1,6 +1,6 @@
 # Stripe pay per generation or 1 time payment starter.
 
-This is a NextJS starter template for those building apps wanting to bill based on number of generations instead of subscription.
+This is a NextJS starter template for those building AI apps wanting to bill based on number of generations instead of subscription.
 It was created with 'create-t3-app'.
 
 Make sure to setup your env variables.
@@ -8,7 +8,7 @@ Make sure to setup your env variables.
 Is ready to go with Google login.
 For database we used supabase but that is up to you.
 
-You can configure the number of free generations before triggering the payment option and the number of payd generations all in the .env file.
+You can configure the number of free generations before triggering the payment option and the number of paid generations all in the .env file.
 
 # Create T3 App
 
